@@ -1,5 +1,6 @@
 # Hi, I'm Aryan Kalra
-currently building at the intersection of biopotential sensing, spatial computing, and the web.
+
+Computer Science Undergrad @ VIT Vellore | Building at the intersection of XR, NeuroTech, and Modern Web.
 
 ---
 
