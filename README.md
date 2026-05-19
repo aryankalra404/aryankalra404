@@ -4,11 +4,11 @@ Computer Science Undergrad @ VIT Vellore | Building at the intersection of XR, N
 
 ---
 
-## What I'm up to
+## What I'm up to:
 
-> **Building** — Integrating biopotential sensors (EMG/EEG) with XR environments and developing spatial computing applications for the Meta Quest.
+> **Building** - Integrating biopotential sensors (EMG/EEG) with XR environments and developing spatial computing applications for the Meta Quest.
 
-> **Learning** — Advanced React patterns for high-performance dashboards and the nuances of spatial UI/UX design.
+> **Learning** - Advanced React patterns for high-performance dashboards and the nuances of spatial UI/UX design.
 
 ---
 
